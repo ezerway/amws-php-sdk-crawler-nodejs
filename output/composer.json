@@ -1,0 +1,7 @@
+{
+  "autoload": {
+    "classmap": ["src/"]
+  },
+  "name": "ezerway/amws",
+  "description": ""
+}
